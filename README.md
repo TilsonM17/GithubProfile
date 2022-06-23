@@ -1,7 +1,18 @@
-## GithubProfile
+# GithubProfile
 
- Mecanismo de Busca de perfis do GitHub usando a APi do Github,usando o Laravel,Vuejs,e colocando ele a roadar no Heroku
+Aplicação feita com :
+- Laravel 8x
+- Vue 2
+- Axios
+
+Ela Busca perfis do GitHub usando a APi do Github,usando o Laravel,Vuejs,e colocando ele a rodar no Heroku.
  
- Nota:Se no seu device o "Bloqueado o carregamento do conteúdo misto ativo" não vai poder visualizar a pagina, tera que desativar,apenas ai estara apto para usar.
- 
- [Proposta Original](https://github.com/florinpop17/app-ideas/blob/master/Projects/2-Intermediate/GitHub-Profiles.md)
+ ## Screnshot
+
+ ![Tela inical](AssetsReadme/01.png)
+
+
+ ![Pesquisa de um usuario pelo nome](AssetsReadme/02.png)
+
+O modo Dark foi feito com Vuejs
+ ![Modo Dark](AssetsReadme/03.png)

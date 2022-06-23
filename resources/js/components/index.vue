@@ -26,8 +26,11 @@
         </div>
       </div>
     </nav>
-    <p class="h3 text-center">Pesquise um usuario do GitHub.</p>
-    <div class="col-md-8 offset-md-3">
+   
+    <div class="col-md-8 mt-4 offset-md-3">
+
+       <p class="h3 mt-5 text-center">Pesquise um usuario do GitHub.</p>
+      
       <div class="my-3">
         <input
           type="text"
