@@ -17,4 +17,8 @@ Route::get('/', function () {
     return view('home');
 });
 
+Route::get('/Ola', function () {
+    echo "<h1>Esta a dar merda</h1>";
+});
+
 
